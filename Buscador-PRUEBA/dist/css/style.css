@@ -1,0 +1,15 @@
+.img-brio{
+    right: auto;
+    width: 20px;
+    color: grey;
+}
+
+.nomostre{
+    background: rgb(240, 237, 237);
+    color: rgb(8, 7, 7);
+    padding: 15px;
+    text-align: center;
+    display: none;  
+    /*visibility: hidden;*/
+}
+
